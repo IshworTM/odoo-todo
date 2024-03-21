@@ -1,0 +1,4 @@
+!.gitignore
+
+odoo/client-action-addons/todo_list/__pycache__
+odoo/client-action-addons/todo_list/models/__pycache__
